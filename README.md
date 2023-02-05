@@ -13,4 +13,5 @@ When the TimeFlip device is connected, each turn of the device will trigger a no
 - Ending timestamp
 - Duration (in seconds)
 
-  
+### Credit
+Thanks to [Pierre Beaujean](https://github.com/pierre-24/pytimefliplib) for doing the hard work
